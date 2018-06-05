@@ -6,5 +6,6 @@
     
 	Для лицензионного ключа имеется строковый ресурс, используйте свой ключ
     
-    Изображения использованные в качестве целей: ![ocean]({{site.baseurl}}//ocean.jpg) 
-    ![fish]({{site.baseurl}}//fish.jpg)
+    Изображения использованные в качестве целей: 
+    1. ![ocean]({{site.baseurl}}/www.gettyimages.com/detail/photo/tropical-fishes-underwater-royalty-free-image/542943712)
+    2. ![fish]({{site.baseurl}}/www.gettyimages.com/detail/photo/tropical-fishes-underwater-royalty-free-image/542943712)
